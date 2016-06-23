@@ -28,7 +28,7 @@ Development Stages
 Stage One
 ------------
 
-- BLE scan & connection with the specified wristband (by BTADDR);
+- BLE scan & connection with the specified wristband (by BDADDR);
 - RSSI readback and connection lost alert (phone locally);
 - battery level readback and low voltage alert (phone locally);
 - phone local alert by highlighted text, ring/voice;
@@ -47,7 +47,7 @@ Stage Three
 
 - wristband broken alert;
 - security enhancement between wristband and phone/APP;
-- The APP can work in the background, so two power saving modes to be considerred.
+- The APP can work in the background, so two power saving modes to be considerred:
     - Doze power saving mode
     - App standby power saving mode
 
