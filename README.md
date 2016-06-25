@@ -68,3 +68,12 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+TODO
+=====
+[x] 1. BLE scan & connection
+[x] 2. RSSI readback and show
+[x] 3. Alert on connection lost (locally by AlertDialog)
+[ ] 4. Implement by remote service that will not be stop when UI is closed
+[ ] 5. Battery voltage readback and alert on low voltage
+[ ] 6. Local phone alert by ring/voice
