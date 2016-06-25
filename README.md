@@ -71,9 +71,9 @@ the License.
 
 TODO
 =====
-[x]1. BLE scan & connection
-[x]2. RSSI readback and show
-[x]3. Alert on connection lost (locally by AlertDialog)
-[ ]4. Implement by remote service that will not be stop when UI is closed
-[ ]5. Battery voltage readback and alert on low voltage
-[ ]6. Local phone alert by ring/voice
+1. [x] BLE scan & connection
+2. [x] RSSI readback and show
+3. [x] Alert on connection lost (locally by AlertDialog)
+4. [ ] Implement by remote service that will not be stop when UI is closed
+5. [ ] Battery voltage readback and alert on low voltage
+6. [ ] Local phone alert by ring/voice
